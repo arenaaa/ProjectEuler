@@ -1,6 +1,6 @@
 package p0001;
 /**
- * 
+ * edit edit edit
  * @ref http://euler.synap.co.kr/prob_detail.php?id=1
  * @author jihyun
  *
